@@ -2,8 +2,6 @@
 Power BI Dashboards - 2024
 # Coca Cola Sales - Dashboard - 2022
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
-
 ## Problem Statement
 
 This dashboard helps the company to understand the sales details of Coc-Cola for 2022(US). It has parameters which includes retailers, geographical areas across countries and brands that were sold. Along with it the data has details regarding the products such as the pricing as per area, units sold, the cost at which the unit was asold and the profit margins as well.
